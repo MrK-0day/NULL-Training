@@ -3,10 +3,10 @@
 - Thích hợp cho ng dùng IOS hay Android
 (Tiền trong game có biểu tượng là hạt hướng dương)
 - Ng chơi sẽ chọn 1 trong 4 giống Hamster để nuôi
-    a/ Dễ: giống Winter White: hiền, dễ huấn luyện
-    b/ Trung bình: giống Campbell: hiền, khó huấn luận
-    c/ Khó: giống Robo: nhát, khó huấn luyện
-    d/ Extreme: giống Panda: rất dữ, rất khó huấn luyện
+    a/ Dễ: giống Winter White: hiền, dễ huấn luyện, nuôi chung 1 chuồng được tối đa 4 con
+    b/ Trung bình: giống Campbell: hiền, khó huấn luyện, nuôi chung 1 chuồng được tối đa 4 con
+    c/ Khó: giống Robo: nhát, khó huấn luyện, có thể nuôi dc 6 con một chuồng
+    d/ Extreme: giống Panda: rất dữ, rất khó huấn luyện, chỉ nuôi 1 cặp/ chuồng
 - Mỗi loại sẽ có tuổi đời khác nhau
 - Trong giống hamster có nhiều loại, màu sắc. 
 - Đầu tiên sẽ cho một khoảng tiền nhất định để mua 1 con hamster trong các loại của giống hamster đó.
