@@ -13,7 +13,8 @@
 - 1 chuồng đầu tiên nuôi tối đa 2 con. Sau đó có thể nâng cấp chuồng hoặc mua thêm chuồng.
 - Khác giống sẽ không nuôi dc với nhau
 - Sẽ có minigame để kiếm tiền
-- Mua thêm con đực/ cái dể đẻ thêm baby :) 
+- Mua thêm con đực/ cái dể đẻ thêm baby :) Cái phần này là phải mua 1 lồng đặc biệt vd như là love cage. Sau khoảng tgian sẽ có hamster baby. Hamster baby được chuyển qua lồng riêng khác cho đến khi đủ lớn. 
 - Có thể bán hamster để kiếm tiền
 - Mua thức ăn và đồ nội thất cho lồng để tăng độ happy của hamster, độ happy càng cao thì sau khoảng tgian nhất định hamster sẽ cho tiền.
+- Độ happy phụ thuộc vào lồng nuôi, mùn cưa lót chuồng, nhà, nhà tắm cát, đá mài răng, các loại thức ăn thêm, vòng chạy, bập bênh, ... nói chung là nội thất của chuồng. 
 - Ngoài ra, có thể nuôi thỏ và các loại hamster có màu sắc đặc biệt hay có khả năng đặc biệt khi nâng cấp tài khoản lên VIP!
