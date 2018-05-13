@@ -16,4 +16,4 @@
 - Mua thêm con đực/ cái dể đẻ thêm baby :) 
 - Có thể bán hamster để kiếm tiền
 - Mua thức ăn và đồ nội thất cho lồng để tăng độ happy của hamster, độ happy càng cao thì sau khoảng tgian nhất định hamster sẽ cho tiền.
-- Ngoài ra, có thể nuôi thỏ khi nâng cấp tài khoản lên VIP
+- Ngoài ra, có thể nuôi thỏ và các loại hamster có màu sắc đặc biệt hay có khả năng đặc biệt khi nâng cấp tài khoản lên VIP!
