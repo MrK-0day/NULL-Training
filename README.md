@@ -34,3 +34,16 @@ các loại thức ăn thêm, vòng chạy, bập bênh, ... nói chung là nộ
 - Ngoài ra, có thể nuôi thỏ và các loại hamster có màu sắc đặc biệt hay có khả năng đặc biệt
 khi nâng cấp tài khoản lên VIP!
 ```
+
+## Bố cục game:
+1. Màn hình loading
+2. Màn hình đầu game mua Hamster
+3. Màn hình gồm các chuồng đã mua, khi bấm vào chuồng nào sẽ xuất hiện hình ảnh trong chuồng đó.
+4. Màn hình shop
+5. ... Thắng tự nghĩ nha =D
+
+## Phân chia công việc
+1. Thắng phát thảo sơ các bố cục game, để các bạn có thể hình dung game như thế nào.
+2. Đỉnh viết scene 3 trên chỗ bố cục
+3. Vũ viết scene 1 và 2 trên bỗ cục
+4. Tuấn viết scene 4
